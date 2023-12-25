@@ -1,0 +1,24 @@
+{
+  "name": "node-labs",
+  "version": "1.0.0",
+  "description": "Node.js Labs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavlik1313/Node-labs.git"
+  },
+  "keywords": [
+    "Node.js",
+    "kpi",
+    "labs"
+  ],
+  "author": "vladpavlyuk1313@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavlik1313/Node-labs/issues"
+  },
+  "homepage": "https://github.com/Pavlik1313/Node-labs#readme"
+}
